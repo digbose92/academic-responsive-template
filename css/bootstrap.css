@@ -15,7 +15,7 @@
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
-  font-family: sans-serif;
+  font-family: Arial;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -82,7 +82,7 @@ small {
 }
 sub,
 sup {
-  font-size: 75%;
+  font-size: 50%;
   line-height: 0;
   position: relative;
   vertical-align: baseline;
@@ -116,7 +116,7 @@ kbd,
 pre,
 samp {
   font-family: monospace, monospace;
-  font-size: 1em;
+  font-size: 2em;
 }
 button,
 input,
@@ -280,7 +280,7 @@ th {
   display: inline-block;
   font-family: 'Glyphicons Halflings';
   font-style: normal;
-  font-weight: normal;
+  font-weight: bold;
   line-height: 1;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -1298,13 +1298,13 @@ p {
 }
 .lead {
   margin-bottom: 20px;
-  font-size: 16px;
-  font-weight: 300;
+  font-size: 20px;
+  font-weight: 500;
   line-height: 1.4;
 }
 @media (min-width: 768px) {
   .lead {
-    font-size: 21px;
+    font-size: 15px;
   }
 }
 small,
