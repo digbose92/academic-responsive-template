@@ -1094,6 +1094,7 @@ body {
   color: #333333;
   background-color: #ffffff;
 }
+
 input,
 button,
 select,
@@ -1423,6 +1424,7 @@ ul,
 ol {
   margin-top: 0;
   margin-bottom: 10px;
+  line-height:200%;
 }
 ul ul,
 ol ul,
