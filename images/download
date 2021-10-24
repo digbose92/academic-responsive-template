@@ -1,0 +1,338 @@
+@inproceedings{DBLP:conf/comad/MukherjeeNABS21,
+  author    = {Sumanta Mukherjee and
+               Krishnasuri Narayanam and
+               Nupur Aggarwal and
+               Digbalay Bose and
+               Amith Singhee},
+  editor    = {Jayant R. Haritsa and
+               Shourya Roy and
+               Manish Gupta and
+               Sharad Mehrotra and
+               Balaji Vasan Srinivasan and
+               Yogesh Simmhan},
+  title     = {Robust resource demand estimation using hierarchical Bayesian model
+               in a distributed service system},
+  booktitle = {{CODS-COMAD} 2021: 8th {ACM} {IKDD} {CODS} and 26th COMAD, Virtual
+               Event, Bangalore, India, January 2-4, 2021},
+  pages     = {350--358},
+  publisher = {{ACM}},
+  year      = {2021},
+  url       = {https://doi.org/10.1145/3430984.3431003},
+  doi       = {10.1145/3430984.3431003},
+  timestamp = {Mon, 18 Jan 2021 16:22:22 +0100},
+  biburl    = {https://dblp.org/rec/conf/comad/MukherjeeNABS21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
+@article{DBLP:journals/corr/abs-2110-05021,
+  author    = {Justin Olah and
+               Sabyasachee Baruah and
+               Digbalay Bose and
+               Shrikanth Narayanan},
+  title     = {Cross Domain Emotion Recognition using Few Shot Knowledge Transfer},
+  journal   = {CoRR},
+  volume    = {abs/2110.05021},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2110.05021},
+  eprinttype = {arXiv},
+  eprint    = {2110.05021},
+  timestamp = {Thu, 21 Oct 2021 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2110-05021.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
+@article{DBLP:journals/corr/abs-2110-06486,
+  author    = {Digbalay Bose and
+               Krishna Somandepalli and
+               Souvik Kundu and
+               Rimita Lahiri and
+               Jonathan Gratch and
+               Shrikanth Narayanan},
+  title     = {Understanding of Emotion Perception from Art},
+  journal   = {CoRR},
+  volume    = {abs/2110.06486},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2110.06486},
+  eprinttype = {arXiv},
+  eprint    = {2110.06486},
+  timestamp = {Fri, 22 Oct 2021 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2110-06486.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
+@inproceedings{DBLP:conf/icvgip/BoseC16,
+  author    = {Digbalay Bose and
+               Subhasis Chaudhuri},
+  editor    = {Dhruv Batra and
+               Michael Brown and
+               Vijay Natarajan},
+  title     = {Hierarchical spectral clustering based large margin classification
+               of visually correlated categories},
+  booktitle = {Proceedings of the Tenth Indian Conference on Computer Vision, Graphics
+               and Image Processing, {ICVGIP} 2016, Guwahati, Assam, India, December
+               18-22, 2016},
+  pages     = {48:1--48:8},
+  publisher = {{ACM}},
+  year      = {2016},
+  url       = {https://doi.org/10.1145/3009977.3010064},
+  doi       = {10.1145/3009977.3010064},
+  timestamp = {Tue, 06 Nov 2018 11:06:53 +0100},
+  biburl    = {https://dblp.org/rec/conf/icvgip/BoseC16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
+@article{DBLP:journals/isci/BoseBVL14,
+  author    = {Digbalay Bose and
+               Subhodip Biswas and
+               Athanasios V. Vasilakos and
+               Sougata Laha},
+  title     = {Optimal filter design using an improved artificial bee colony algorithm},
+  journal   = {Inf. Sci.},
+  volume    = {281},
+  pages     = {443--461},
+  year      = {2014},
+  url       = {https://doi.org/10.1016/j.ins.2014.05.033},
+  doi       = {10.1016/j.ins.2014.05.033},
+  timestamp = {Fri, 09 Apr 2021 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/isci/BoseBVL14.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
+@inproceedings{DBLP:conf/sdiev/BiswasKBDS13,
+  author    = {Subhodip Biswas and
+               Souvik Kundu and
+               Digbalay Bose and
+               Swagatam Das and
+               Ponnuthurai Nagaratnam Suganthan},
+  editor    = {Janez Brest and
+               Swagatam Das and
+               Ferrante Neri and
+               Ponnuthurai N. Suganthan},
+  title     = {Synchronizing Differential Evolution with a modified affinity-based
+               mutation framework},
+  booktitle = {2013 {IEEE} Symposium on Differential Evolution, {SDE} 2013, Singapore,
+               Singapore, April 16-19, 2013},
+  pages     = {61--68},
+  publisher = {{IEEE}},
+  year      = {2013},
+  url       = {https://doi.org/10.1109/SDE.2013.6601443},
+  doi       = {10.1109/SDE.2013.6601443},
+  timestamp = {Wed, 23 Jun 2021 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/sdiev/BiswasKBDS13.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
+@inproceedings{DBLP:conf/swis/BiswasKBDSP13,
+  author    = {Subhodip Biswas and
+               Souvik Kundu and
+               Digbalay Bose and
+               Swagatam Das and
+               Ponnuthurai N. Suganthan and
+               Bijaya K. Panigrahi},
+  title     = {Migrating forager population in a multi-population Artificial Bee
+               Colony algorithm with modified perturbation schemes},
+  booktitle = {2013 {IEEE} Symposium on Swarm Intelligence, {SIS} 2013, Singapore,
+               April 16-19, 2013},
+  pages     = {248--255},
+  publisher = {{IEEE}},
+  year      = {2013},
+  url       = {https://doi.org/10.1109/SIS.2013.6615186},
+  doi       = {10.1109/SIS.2013.6615186},
+  timestamp = {Wed, 23 Jun 2021 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/swis/BiswasKBDSP13.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
+@article{DBLP:journals/corr/GangulyBK13,
+  author    = {Srinjoy Ganguly and
+               Digbalay Bose and
+               Amit Konar},
+  title     = {Clustering using Vector Membership: An Extension of the Fuzzy C-Means
+               Algorithm},
+  journal   = {CoRR},
+  volume    = {abs/1312.4074},
+  year      = {2013},
+  url       = {http://arxiv.org/abs/1312.4074},
+  eprinttype = {arXiv},
+  eprint    = {1312.4074},
+  timestamp = {Mon, 13 Aug 2018 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/GangulyBK13.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
+@inproceedings{DBLP:conf/semcco/BiswasBK12,
+  author    = {Subhodip Biswas and
+               Digbalay Bose and
+               Souvik Kundu},
+  editor    = {Bijaya K. Panigrahi and
+               Swagatam Das and
+               Ponnuthurai Nagaratnam Suganthan and
+               Pradipta Kumar Nanda},
+  title     = {A Clustering Particle Based Artificial Bee Colony Algorithm for Dynamic
+               Environment},
+  booktitle = {Swarm, Evolutionary, and Memetic Computing - Third International Conference,
+               {SEMCCO} 2012, Bhubaneswar, India, December 20-22, 2012. Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {7677},
+  pages     = {151--159},
+  publisher = {Springer},
+  year      = {2012},
+  url       = {https://doi.org/10.1007/978-3-642-35380-2\_19},
+  doi       = {10.1007/978-3-642-35380-2\_19},
+  timestamp = {Wed, 23 Jun 2021 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/semcco/BiswasBK12.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
+@inproceedings{DBLP:conf/semcco/KunduBDB12,
+  author    = {Souvik Kundu and
+               Subhodip Biswas and
+               Swagatam Das and
+               Digbalay Bose},
+  editor    = {Bijaya K. Panigrahi and
+               Swagatam Das and
+               Ponnuthurai Nagaratnam Suganthan and
+               Pradipta Kumar Nanda},
+  title     = {A Selective Teaching-Learning Based Niching Technique with Local Diversification
+               Strategy},
+  booktitle = {Swarm, Evolutionary, and Memetic Computing - Third International Conference,
+               {SEMCCO} 2012, Bhubaneswar, India, December 20-22, 2012. Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {7677},
+  pages     = {160--168},
+  publisher = {Springer},
+  year      = {2012},
+  url       = {https://doi.org/10.1007/978-3-642-35380-2\_20},
+  doi       = {10.1007/978-3-642-35380-2\_20},
+  timestamp = {Wed, 23 Jun 2021 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/semcco/KunduBDB12.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
+@inproceedings{DBLP:conf/semcco/KunduBB12,
+  author    = {Souvik Kundu and
+               Digbalay Bose and
+               Subhodip Biswas},
+  editor    = {Bijaya K. Panigrahi and
+               Swagatam Das and
+               Ponnuthurai Nagaratnam Suganthan and
+               Pradipta Kumar Nanda},
+  title     = {Differential Evolution with a Relational Neighbourhood-Based Strategy
+               for Numerical Optimization},
+  booktitle = {Swarm, Evolutionary, and Memetic Computing - Third International Conference,
+               {SEMCCO} 2012, Bhubaneswar, India, December 20-22, 2012. Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {7677},
+  pages     = {189--197},
+  publisher = {Springer},
+  year      = {2012},
+  url       = {https://doi.org/10.1007/978-3-642-35380-2\_23},
+  doi       = {10.1007/978-3-642-35380-2\_23},
+  timestamp = {Wed, 23 Jun 2021 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/semcco/KunduBB12.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
+@inproceedings{DBLP:conf/semcco/BoseKBD12,
+  author    = {Digbalay Bose and
+               Souvik Kundu and
+               Subhodip Biswas and
+               Swagatam Das},
+  editor    = {Bijaya K. Panigrahi and
+               Swagatam Das and
+               Ponnuthurai Nagaratnam Suganthan and
+               Pradipta Kumar Nanda},
+  title     = {Circular Antenna Array Design Using Novel Perturbation Based Artificial
+               Bee Colony Algorithm},
+  booktitle = {Swarm, Evolutionary, and Memetic Computing - Third International Conference,
+               {SEMCCO} 2012, Bhubaneswar, India, December 20-22, 2012. Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {7677},
+  pages     = {459--466},
+  publisher = {Springer},
+  year      = {2012},
+  url       = {https://doi.org/10.1007/978-3-642-35380-2\_54},
+  doi       = {10.1007/978-3-642-35380-2\_54},
+  timestamp = {Wed, 23 Jun 2021 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/semcco/BoseKBD12.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
+@inproceedings{DBLP:conf/semcco/BiswasKBD12,
+  author    = {Subhodip Biswas and
+               Souvik Kundu and
+               Digbalay Bose and
+               Swagatam Das},
+  editor    = {Bijaya K. Panigrahi and
+               Swagatam Das and
+               Ponnuthurai Nagaratnam Suganthan and
+               Pradipta Kumar Nanda},
+  title     = {Cooperative Co-evolutionary Teaching-Learning Based Algorithm with
+               a Modified Exploration Strategy for Large Scale Global Optimization},
+  booktitle = {Swarm, Evolutionary, and Memetic Computing - Third International Conference,
+               {SEMCCO} 2012, Bhubaneswar, India, December 20-22, 2012. Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {7677},
+  pages     = {467--475},
+  publisher = {Springer},
+  year      = {2012},
+  url       = {https://doi.org/10.1007/978-3-642-35380-2\_55},
+  doi       = {10.1007/978-3-642-35380-2\_55},
+  timestamp = {Wed, 23 Jun 2021 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/semcco/BiswasKBD12.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
+@inproceedings{DBLP:conf/semcco/BoseBKD12,
+  author    = {Digbalay Bose and
+               Subhodip Biswas and
+               Souvik Kundu and
+               Swagatam Das},
+  editor    = {Bijaya K. Panigrahi and
+               Swagatam Das and
+               Ponnuthurai Nagaratnam Suganthan and
+               Pradipta Kumar Nanda},
+  title     = {A Strategy Pool Adaptive Artificial Bee Colony Algorithm for Dynamic
+               Environment through Multi-population Approach},
+  booktitle = {Swarm, Evolutionary, and Memetic Computing - Third International Conference,
+               {SEMCCO} 2012, Bhubaneswar, India, December 20-22, 2012. Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {7677},
+  pages     = {611--619},
+  publisher = {Springer},
+  year      = {2012},
+  url       = {https://doi.org/10.1007/978-3-642-35380-2\_71},
+  doi       = {10.1007/978-3-642-35380-2\_71},
+  timestamp = {Wed, 23 Jun 2021 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/semcco/BoseBKD12.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+

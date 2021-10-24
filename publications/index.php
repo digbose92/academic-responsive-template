@@ -3,7 +3,7 @@
 
 <head>
 <meta charset="utf-8">
-<title>[ Zeinalipour | All Publications ]</title>
+<title>[ Digbalay | All Publications ]</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- Font Awesome Icons -->
@@ -86,7 +86,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <span><a href="../index.html"><img border="0" width="170" src="images/csucy.png"/></a></span>
+            <span><a href="https://www.usc.edu/"><img border="0" width="170" src="../images/USC_logo-removebg-preview.png"/></a></span>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -98,8 +98,7 @@
                     <ul class="dropdown-menu">
                     <li><a href="../index.html#intro">Introduction</a></li>
                         <li><a href="../bio.html">Biography</a></li>
-                        <li><a href="../cv.html">CV (Web)</a></li>
-                        <li><a target="_blank" href="../zeinalipour.pdf">CV (PDF)</a></li>
+                        <li><a target="_blank" href="../cv_Digbalay.pdf">CV (PDF)</a></li>
                     </ul>
                 </li>
                 <li class="page-scroll">
@@ -117,24 +116,11 @@
                     <a href="../index.html#awards">Awards</a>
                 </li>
                 <li class="page-scroll">
-                    <a href="../talks/">Talks</a>
-                </li>
-                <li class="page-scroll">
-                    <a href="../index.html#courses">Courses</a>
-                </li>
-                <li class="page-scroll">
-                    <a href="../index.html#systems">Systems</a>
+                    <a href="../talks/">Projects</a>
                 </li>
                 <li class="page-scroll">
                     <a href="../index.html#service">Service</a>
                 </li>
-                <li class="page-scroll">
-                <a href="../index.html#advising">Advising</a>
-                </li>
-                <li class="page-scroll">
-                    <a target="_blank" href="http://dmsl.cs.ucy.ac.cy/projects.php">Grants</a>
-                </li>
-
                 <li class="page-scroll">
                     <a href="../index.html#contact">Contact</a>
                 </li>
@@ -161,7 +147,7 @@
 
 <section id="tree" style="margin-top:50px">
     <div class="container">
-        <a href="../index.html">Zeinalipour</a> > All Publications
+        <a href="../index.html">Digbalay</a> > All Publications
     </div>
 </section>
 
@@ -169,105 +155,11 @@
 <section id="home">
     <div class="container" id="publications">
     <br>
-    <h1 align="CENTER">All Publications of Demetris Zeinalipour</h1>
+    <h1 align="CENTER">All Publications of Digbalay Bose</h1>
     <br>
-<?php
-    error_reporting(E_ALL);
-    ini_set('display_errors', '1');
-    
-    /*
-     Available Fields: 
-     
-     The field TYPE will be used for data-filtering. If it is not available then the item will be 
-     marked as uncategorised.
-     
-     'note' 
-     'abstract'
-     'year'
-     'group'
-     'publisher'
-     'location'
-     'articleno'
-     'numpages'
-     'page-start'
-     'page-end'
-     'pages'
-     'address'
-     'url'
-     'doi'
-     'volume'
-     'chapter'
-     'journal'
-     'author'
-     'raw'
-     'title'
-     'booktitle'
-     'folder'
-     'type'
-     'series'
-     'linebegin'
-     'lineend'
-     'durl',
-     'powerpoint',
-     'infosite',
-     'website'
-     
-     */
-    
-    /* 
-     Define the format that will be used for printing each bibtex item.
-     If a you desire to print a string infront of a field please use the following format:
-     
-     article = array("title", "author", "string", "bibtex field");
-     
-     eg.
-     
-     article = array("title", "author", "Num. Of pages", "pages");
-     
-     Please modify the example below as desired  is presented bellow. 
-     */
-    
-    $article = array("title", "author", "journal", "series", "location", "publisher", "volume", "number", "pages", "address", "isbn", "year");
-    $book = array("title", "author", "booktitle", "series", "location", "publisher", "volume", "pages", "address", "isbn", "year");
-    $booklet = array("title", "author", "booktitle", "series", "location", "publisher", "volume", "pages", "address", "isbn", "year");
-    $conference = array("title", "author", "booktitle", "series", "location", "publisher", "volume", "pages", "address", "isbn", "year", "award");
-    $inbook = array("title", "author", "booktitle", "series", "location", "publisher", "volume", "pages", "address", "isbn", "year");
-    $incollection = array("title", "author", "booktitle", "series", "location", "publisher", "volume", "chapter", "pages", "address", "isbn", "year", "award");
-    $inproceedings = array("title", "author", "booktitle", "series", "location", "publisher", "volume", "chapter", "pages", "address", "isbn", "year", "award");
-    $manual = array("title", "author", "booktitle", "series", "location", "publisher", "volume", "pages", "address", "isbn", "year");
-    $mastersthesis = array("title", "author", "booktitle", "series", "location", "publisher", "volume", "pages", "address", "isbn", "year");
-    $misc = array("title", "author", "booktitle", "series", "location", "publisher", "volume", "pages", "address", "isbn", "year");
-    $phdthesis = array("title", "author", "journal", "series", "location", "publisher", "volume", "pages", "address", "isbn", "year");
-    $proceedings = array("booktitle", "series", "author", "location", "publisher", "volume", "pages", "address", "isbn", "year", "award");
-    $techreport = array("title", "author", "booktitle", "series", "location", "publisher", "volume", "pages", "address", "isbn", "year");
-    $unpublished = array("title", "author", "booktitle", "series", "location", "publisher", "volume", "pages", "address", "isbn", "year");
-    $other = array("title", "author", "booktitle", "series", "location", "publisher", "volume", "pages", "address", "isbn", "year");
-    
-    /* 
-     Delimiter for Seperating each bibtex field
-     */
-    
-    $delimiter = '.';
-    
-    /*
-     
-     Enter fields equivalent to type field in the BibTex file to sort the bibtex entries in categories. Bellow each type enter the title which will be presented as the category title.
-     
-     */
-    
-    $sortby = array('journal', 'conference', 'book', 'editorial', 'theses', 'gconferences');
-    $sortbyTitle = array('Journals and Magazines', 'Conference Proceedings', 'Book Chapters', 'Editorials','Theses', 'Greek Conferences');
-   
-    $projects = array('all');
-    include 'bibtex.php';				
-   
-   /* 
-     Enter the location of your BibTex file
-    */
-    $bibTexFile = 'demo.bib';
-    
-    $bibTex = new BibTeX_Parser();
-    $bibTex->parser($file = $bibTexFile); 
+    <?php 
+           include 'bibtexbrowser.php?bib=demo.bib&all'
     ?>
+</section>
 </body>
 </html>
