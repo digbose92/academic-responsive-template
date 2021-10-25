@@ -158,7 +158,7 @@
     <h1 align="CENTER">All Publications of Digbalay Bose</h1>
     <br>
     <?php 
-           include 'bibtexbrowser.php?bib=demo.bib&all'
+           include 'bibtexbrowser.php?bib=demo.bib&all';
     ?>
 </section>
 </body>
